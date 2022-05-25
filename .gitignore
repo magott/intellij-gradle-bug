@@ -1,0 +1,21 @@
+.gradle/
+build/
+out/
+*.jar
+.java-version
+.sdkmanrc
+
+# IDEA
+*.iml
+*.iws
+*.ipr
+./idea
+.idea/
+
+# OSX
+.DS_Store
+/helm_vars/*.dec
+*.tgz
+*.dec
+.env
+git-version.txt
